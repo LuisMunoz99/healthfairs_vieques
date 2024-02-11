@@ -1,5 +1,6 @@
 # Repository: healthfairs_vieques
 **`Project`**: [Revitalizing Vieques – Empowering Healthcare through HMARIA/ACS’s Operation Giving Back Puerto Rico](conference_abstract_1.pdf)](link)
+
 **`Project`**: [Student Coordinated Specialty Health Fair Program for the Underserved Municipality of Vieques, Puerto Rico](conference_abstract_1.pdf)](link)
 
 This repository compiles the documentation, code, and resources for free services health fairs developed in Vieques, Puerto Rico. Each project is presented through a separate conference abstract. Vieques is a  municipality off the eastern coast of Puerto Rico. With a population of around 8,000, the island faces healthcare challenges, including a lack of a functional hospital and limited access to medical services and equipment. Geographic isolation compounds these issues, requiring residents to take inconsistent ferry trips to the mainland for medical appointments. 
