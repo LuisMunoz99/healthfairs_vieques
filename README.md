@@ -6,7 +6,7 @@
 This repository compiles the documentation, code, and resources for free services health fairs developed in Vieques, Puerto Rico. Each project is presented through a separate conference abstract. Vieques is a  municipality off the eastern coast of Puerto Rico. With a population of around 8,000, the island faces healthcare challenges, including a lack of a functional hospital and limited access to medical services and equipment. Geographic isolation compounds these issues, requiring residents to take inconsistent ferry trips to the mainland for medical appointments. 
 
 ## Objectives
-1. **Access to healthcare**: Organize Specialty Health Fairs to address the healthcare needs of Viequen's residents, reducing the gap in access to specialist healthcare services.
+1. **Access to healthcare**: Organize Specialty Health Fairs to address the healthcare needs of Vieques's residents, reducing the gap in access to specialist healthcare services.
 2. **Student Involvement**: Engage medical students, residents, and physicians in volunteer work within rural community-based settings to enhance healthcare outcomes and promote the well-being of Vieques residents.
 3. **Develop Alliances**: Foster collaboration with local organizations, NGOs, corporations, and medical schools to provide access to specialty healthcare services.
 
