@@ -1,4 +1,4 @@
-# Repository: healthfairs_vieques
+# Repo: healthfairs_vieques
 **`Project`**: [Revitalizing Vieques – Empowering Healthcare through HMARIA/ACS’s Operation Giving Back Puerto Rico](conference_abstract_1.pdf)](link)
 
 **`Project`**: [Student Coordinated Specialty Health Fair Program for the Underserved Municipality of Vieques, Puerto Rico](conference_abstract_1.pdf)](link)
