@@ -18,5 +18,3 @@ This repository compiles the documentation, code, and resources for free service
 ## Acknowledgement
 
 These projects were collaborative efforts involving Hurricane Maria Assistance Relief & Institutional Alliance, Puerto Ricos's local medical schools, and the American College of Surgeons.
-
-For detailed information, refer to the respective conference abstracts: [Abstract 1](conference_abstract_1.pdf), [Abstract 2](conference_abstract_2.pdf).
